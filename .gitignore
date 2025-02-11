@@ -1,0 +1,15 @@
+*.txt
+*.csv
+*.xlsx
+target/
+
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar # Keep the Maven wrapper JAR
+
+.env
+
+*.lock
+*.rar
+*.png
+*.jar
+*.zip
