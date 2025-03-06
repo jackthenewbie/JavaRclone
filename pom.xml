@@ -7,7 +7,7 @@
 
   <groupId>com.jvrclone</groupId>
   <artifactId>javarclone</artifactId>
-  <version>0.1</version>
+  <version>0.1-SNAPSHOT</version>
 
   <name>javarclone</name>
   <url>https://github.com/jackthenewbie/javarclone</url>
@@ -25,6 +25,14 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    <!--  Gson: Java to JSON conversion -->
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.12.1</version>
+      <scope>compile</scope>
+    </dependency>
+
   </dependencies>
 
   <build>

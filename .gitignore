@@ -5,7 +5,7 @@ target/
 
 .mvn/
 !/.mvn/wrapper/maven-wrapper.jar # Keep the Maven wrapper JAR
-
+src/test/
 .env
 
 *.lock
